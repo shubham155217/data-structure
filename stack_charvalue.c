@@ -64,6 +64,7 @@ int main()
 {
 char num;
 int ch;
+    init();
 printf("1:push\n 2:pop\n3:dispstack");
 do{
 printf("\n enter choice:");
